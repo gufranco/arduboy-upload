@@ -1,5 +1,7 @@
 # arduboy-upload
 
 ```bash
-arduboy-upload game.hex
+chmod +x arduboy-upload
+
+./arduboy-upload game.hex
 ```
